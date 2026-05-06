@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "18-01/Notes/I..md",
+                "file": "18-01/Notes/II-1..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "I."
+              "title": "II-1."
             }
           }
         ]
@@ -89,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3fb50faaa4aa87bd",
@@ -209,8 +210,9 @@
   },
   "active": "211d1a169c241554",
   "lastOpenFiles": [
-    "18-01/Untitled.md",
     "18-01/Notes/I..md",
+    "18-01/Notes/II-1..md",
+    "18-01/Untitled.md",
     "18-01/Notes",
     "Welcome.md",
     "18-01",
