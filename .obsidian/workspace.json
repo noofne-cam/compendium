@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "18-01/Notes/II-1..md",
+                "file": "08-01/Systems/Double Pendulum.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "II-1."
+              "title": "Double Pendulum"
             }
           }
         ]
@@ -210,8 +210,11 @@
   },
   "active": "211d1a169c241554",
   "lastOpenFiles": [
-    "18-01/Notes/I..md",
     "18-01/Notes/II-1..md",
+    "08-01/Systems/Double Pendulum.md",
+    "08-01/Systems",
+    "08-01",
+    "18-01/Notes/I..md",
     "18-01/Untitled.md",
     "18-01/Notes",
     "Welcome.md",
