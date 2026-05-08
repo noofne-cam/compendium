@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "08-01/Systems/Double Pendulum.md",
+                "file": "08-02II/Statistical Mechanics Syllabus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Double Pendulum"
+              "title": "Statistical Mechanics Syllabus"
             }
           }
         ]
@@ -89,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "3fb50faaa4aa87bd",
@@ -210,8 +209,10 @@
   },
   "active": "211d1a169c241554",
   "lastOpenFiles": [
-    "18-01/Notes/II-1..md",
     "08-01/Systems/Double Pendulum.md",
+    "08-02II/Statistical Mechanics Syllabus.md",
+    "08-02II",
+    "18-01/Notes/II-1..md",
     "08-01/Systems",
     "08-01",
     "18-01/Notes/I..md",
