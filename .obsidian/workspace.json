@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "08-02II/Statistical Mechanics Syllabus.md",
+                "file": "18-07I/Gallery. Groups.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Statistical Mechanics Syllabus"
+              "title": "Gallery. Groups"
+            }
+          },
+          {
+            "id": "6ecb4d8ed8e2461b",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "18-07I/ARaa.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "ARaa"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3fb50faaa4aa87bd",
@@ -207,10 +221,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "86afbe13d228f3ca",
+  "active": "6ecb4d8ed8e2461b",
   "lastOpenFiles": [
-    "08-01/Systems/Double Pendulum.md",
+    "18-07I/Gallery. Groups.md",
+    "18-07I/RSGT-Series/E1.md",
+    "18-07I/RSgt.pdf",
+    "18-07I/Notes/Group.md",
+    "18-07I/RSGT-Series",
+    "18-07I/Notes",
     "08-02II/Statistical Mechanics Syllabus.md",
+    "18-07I/RMgt.pdf",
+    "18-07I",
+    "08-01/Systems/Double Pendulum.md",
     "08-02II",
     "18-01/Notes/II-1..md",
     "08-01/Systems",
