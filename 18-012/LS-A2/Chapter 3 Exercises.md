@@ -1,0 +1,2 @@
+$$(\nabla_\mu Y)^\rho = \partial_\mu Y^\rho + \Gamma^\rho_{\mu\nu}Y^\nu$$$$(\nabla_\mu \omega)_\nu = \partial_\mu \omega_\nu - \Gamma^\sigma_{\mu\nu}\omega_\sigma .$$
+$$T^\mu_{\sigma\rho} = \Gamma^\mu_{\sigma\rho} - \Gamma^\mu_{\rho\sigma} = 2\Gamma^\mu_{[\sigma\rho]}.$$
