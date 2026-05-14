@@ -8,15 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "860e0cea7907b622",
+            "id": "340c0c65ebe84ae0",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "08-06/SHZgr.pdf"
+                "file": "18-012/LS-A2/Chapter 3 Exercises.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "SHZgr"
+              "icon": "lucide-file",
+              "title": "Chapter 3 Exercises"
             }
           }
         ]
@@ -205,10 +207,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "860e0cea7907b622",
+  "active": "340c0c65ebe84ae0",
   "lastOpenFiles": [
-    "18-07I/ARaa.pdf",
+    "08-06/Notes/Tensors.md",
+    "18-012/LS-A2/Chapter 3 Exercises.md",
+    "18-012/LS-A2",
+    "18-012",
+    "08-06/Notes",
     "08-06/SHZgr.pdf",
+    "18-07I/ARaa.pdf",
     "08-06/MTWgr.pdf",
     "08-06",
     "18-07I/Gallery. Groups.md",
@@ -218,12 +225,8 @@
     "18-07I/RSGT-Series",
     "18-07I/Notes",
     "08-02II/Statistical Mechanics Syllabus.md",
-    "18-07I/RMgt.pdf",
-    "18-07I",
     "08-01/Systems/Double Pendulum.md",
-    "08-02II",
     "18-01/Notes/II-1..md",
-    "08-01/Systems",
     "18-01/Notes/I..md",
     "18-01/Untitled.md",
     "Welcome.md",
