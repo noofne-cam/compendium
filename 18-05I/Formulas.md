@@ -1,0 +1,8 @@
+- **Christoffel Symbols**
+	- $$\Gamma^\mu_{\alpha\beta} = \frac{1}{2}g^{\mu\sigma}(\partial_\alpha g_{\beta\mu} + \partial_\beta g_{\alpha\mu} - \partial_\mu g_{\alpha\beta}).$$
+	- *Nonvanishing Christoffel Symbols in the FRW Metric* $$\Gamma^0_{ij} = a\dot a\gamma_{ij}, \quad \Gamma^i_{0j} = \frac{\dot a}{a}\delta_i^j,$$and $$\Gamma_{jk}^i = \frac{1}{2}\gamma^{il}(\partial_j \gamma_{kl} + \partial_k\gamma_{jl} - \partial_l \gamma_{jk}).$$
+- **Geodesic Equation.**
+	- *Conservation Form* $$\frac{dU^\mu}{ds} + \Gamma^\mu_{\alpha\beta}U^\alpha U^\beta = 0.$$
+	- *Transport Form* $$U^\mu\nabla_\mu U^\nu = 0.$$
+	- *Action Form* $$P^\alpha \partial_\alpha P^\mu = -\Gamma^\mu_{\alpha\beta}P^\alpha P^\beta.$$
+	- 
