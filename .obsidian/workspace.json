@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "18-012/LS-A2/Chapter 3 Exercises.md",
+                "file": "18-05I/Constructs/The Covariant Derivative.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 3 Exercises"
+              "title": "The Covariant Derivative"
             }
           }
         ]
@@ -89,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3fb50faaa4aa87bd",
@@ -209,8 +210,12 @@
   },
   "active": "340c0c65ebe84ae0",
   "lastOpenFiles": [
-    "08-06/Notes/Tensors.md",
+    "18-05I/Elementary Differential Geometry.md",
+    "18-05I/Constructs/The Covariant Derivative.md",
+    "18-05I/Constructs",
     "18-012/LS-A2/Chapter 3 Exercises.md",
+    "18-05I",
+    "08-06/Notes/Tensors.md",
     "18-012/LS-A2",
     "18-012",
     "08-06/Notes",
@@ -222,8 +227,6 @@
     "18-07I/RSGT-Series/E1.md",
     "18-07I/RSgt.pdf",
     "18-07I/Notes/Group.md",
-    "18-07I/RSGT-Series",
-    "18-07I/Notes",
     "08-02II/Statistical Mechanics Syllabus.md",
     "08-01/Systems/Double Pendulum.md",
     "18-01/Notes/II-1..md",
