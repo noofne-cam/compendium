@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "18-05I/Formulas.md",
+                "file": "18-01II/Complex Analysis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Formulas"
+              "title": "Complex Analysis"
             }
           }
         ]
@@ -209,8 +209,10 @@
   },
   "active": "340c0c65ebe84ae0",
   "lastOpenFiles": [
-    "18-05I/Constructs/The Covariant Derivative.md",
     "18-05I/Formulas.md",
+    "18-01II/Complex Analysis.md",
+    "18-01II",
+    "18-05I/Constructs/The Covariant Derivative.md",
     "18-05I/Formulae",
     "18-05I/Elementary Differential Geometry.md",
     "18-05I/Constructs",
@@ -223,7 +225,6 @@
     "08-06/SHZgr.pdf",
     "18-07I/ARaa.pdf",
     "08-06/MTWgr.pdf",
-    "08-06",
     "18-07I/Gallery. Groups.md",
     "18-07I/RSGT-Series/E1.md",
     "18-07I/Notes/Group.md",
