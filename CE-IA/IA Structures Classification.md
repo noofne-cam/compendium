@@ -5,3 +5,5 @@
 - **Beam Displacements / Superpositions**
 - **Composite Beams / Beam Stresses**
 - **Buckling**
+
+$$n³$$
