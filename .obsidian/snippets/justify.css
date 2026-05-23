@@ -1,0 +1,22 @@
+/* live preview */
+.cm-line {
+    text-align: justify !important;
+}
+
+/* reading view */
+.markdown-reading-view p {
+    text-align: justify !important;
+}
+
+/* source view */
+.markdown-source-view p {
+    text-align: justify !important;
+}
+
+.markdown-preview-view ol>li,
+.markdown-preview-view ul>li,
+.markdown-source-view ol>li,
+.markdown-source-view ul>li,
+.mod-cm6 .HyperMD-list-line.cm-line {
+    text-align: left !important;
+}

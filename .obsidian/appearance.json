@@ -1,4 +1,7 @@
 {
   "cssTheme": "Minimal",
-  "accentColor": "#76bc91"
+  "accentColor": "#76bc91",
+  "enabledCssSnippets": [
+    "justify"
+  ]
 }
