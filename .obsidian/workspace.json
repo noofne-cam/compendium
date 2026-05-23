@@ -11,14 +11,17 @@
             "id": "340c0c65ebe84ae0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "CE-IA/IA Structures Classification.md",
-                "mode": "source",
-                "source": false
+                "file": "Natural Philosophy/Modules.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "IA Structures Classification"
+              "icon": "lucide-layout-dashboard",
+              "title": "Modules"
             }
           }
         ]
@@ -209,8 +212,10 @@
   },
   "active": "340c0c65ebe84ae0",
   "lastOpenFiles": [
-    "08-0E/Pendulum/Simple Undamped Conical Pendulum.md",
     "CE-IA/IA Structures Classification.md",
+    "Natural Philosophy/Modules.canvas",
+    "Natural Philosophy",
+    "08-0E/Pendulum/Simple Undamped Conical Pendulum.md",
     "CE-IA",
     "08-0E/Systems.md",
     "08-0E/Pendulum",
@@ -227,7 +232,6 @@
     "08-060/Notes/Tensors.md",
     "18-012/LS-A2",
     "18-012",
-    "08-060/Notes",
     "18-070/Gallery. Groups.md",
     "18-070/RSGT-Series/E1.md",
     "18-070/Notes/Group.md",
