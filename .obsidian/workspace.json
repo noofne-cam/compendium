@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ceng/ia02-MAT/Handout II Notes.md",
+                "file": "Natural Philosophy/18-050/NA01/Topological Space.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Handout II Notes"
+              "title": "Topological Space"
             }
           }
         ]
@@ -198,26 +198,30 @@
   },
   "active": "c26fdb476a2b2533",
   "lastOpenFiles": [
+    "Natural Philosophy/18-050/ELEMENTARY TOPOLOGY.md",
+    "Natural Philosophy/18-050/NA01/Topological Space.md",
+    "Natural Philosophy/18-050/NA01",
+    "Natural Philosophy/18-012/N02/Arcs.md",
+    "Natural Philosophy/18-050",
+    "Natural Philosophy/18-012/ANALYTIC THEORY.md",
+    "Natural Philosophy/18-012/N02",
+    "Natural Philosophy/18-010/REAL ANALYSIS.md",
+    "Natural Philosophy/Modules.canvas",
     "Ceng/ia02-MAT/Handout II Notes.md",
+    "Natural Philosophy/18-012",
+    "CE-IA/IA Structures Classification.md",
     "Ceng/ia02-MAT",
     "Ceng",
-    "Natural Philosophy/MI-010/N01/The Field of Real Numbers.md",
-    "Natural Philosophy/MI-010/REAL ANALYSIS.md",
-    "Natural Philosophy/MI-010/N01",
-    "Natural Philosophy/Modules.canvas",
-    "Natural Philosophy/MI-010",
-    "CE-IA/IA Structures Classification.md",
+    "Natural Philosophy/18-010/N01/The Field of Real Numbers.md",
+    "Natural Philosophy/18-010/N01",
+    "Natural Philosophy/18-010",
     "Natural Philosophy",
     "08-0E/Pendulum/Simple Undamped Conical Pendulum.md",
     "CE-IA",
     "08-0E/Systems.md",
-    "08-0E/Pendulum",
     "18-012/Complex Analysis.md",
-    "08-0E",
     "18-050/Formulas.md",
-    "18-012",
     "18-050/Constructs/The Covariant Derivative.md",
-    "18-05I/Formulae",
     "18-050/Elementary Differential Geometry.md",
     "18-012/LS-A2/Chapter 3 Exercises.md",
     "08-060/Notes/Tensors.md",
