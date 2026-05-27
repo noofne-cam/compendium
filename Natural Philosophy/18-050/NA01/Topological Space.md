@@ -16,3 +16,6 @@
 ---
 - **C.** *Derivation from a Metric*
 	- Let $X$ be a metric space with metric $g$. We may define a canonical topology on $X$ as follows: 
+
+$$-a\dot q_1 + \frac{b}{t^2}q_0 - \frac{k}{t}q_0 = Eq_0$$So $$k(x) = \frac{E - \hbar^2l(l+1)/2mt^2 + e/4\pi\epsilon_0 t}{\hbar^2/2m}.$$
+And 
