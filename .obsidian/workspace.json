@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Natural Philosophy/18-050/NA01/Topological Space.md",
+                "file": "Literature/21-WW/Work Description.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Topological Space"
+              "title": "Work Description"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 216.5086555480957
   },
   "right": {
     "id": "3fb50faaa4aa87bd",
@@ -198,8 +198,15 @@
   },
   "active": "c26fdb476a2b2533",
   "lastOpenFiles": [
-    "Natural Philosophy/18-050/ELEMENTARY TOPOLOGY.md",
+    "Engineering/01-141/ROCKETRY.md",
+    "Literature/21-WW/Work Description.md",
+    "Literature/21-WW",
+    "Literature/Untitled.md",
+    "Literature",
     "Natural Philosophy/18-050/NA01/Topological Space.md",
+    "Engineering/01-141",
+    "Engineering",
+    "Natural Philosophy/18-050/ELEMENTARY TOPOLOGY.md",
     "Natural Philosophy/18-050/NA01",
     "Natural Philosophy/18-012/N02/Arcs.md",
     "Natural Philosophy/18-050",
@@ -213,11 +220,7 @@
     "Ceng/ia02-MAT",
     "Ceng",
     "Natural Philosophy/18-010/N01/The Field of Real Numbers.md",
-    "Natural Philosophy/18-010/N01",
-    "Natural Philosophy/18-010",
-    "Natural Philosophy",
     "08-0E/Pendulum/Simple Undamped Conical Pendulum.md",
-    "CE-IA",
     "08-0E/Systems.md",
     "18-012/Complex Analysis.md",
     "18-050/Formulas.md",
@@ -231,9 +234,6 @@
     "08-022/Statistical Mechanics Syllabus.md",
     "08-01/Systems/Double Pendulum.md",
     "18-010/Notes/II-1..md",
-    "18-010/Notes/I..md",
-    "18-01/Untitled.md",
-    "Welcome.md",
-    "Test Page.md"
+    "18-010/Notes/I..md"
   ]
 }

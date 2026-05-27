@@ -1,0 +1,27 @@
+- Book about the weird unintuitive nature of non-flat / metrics
+	- Should give a little intuition behind why definitions are as they are in DG
+	- Should hide mathematical / physical discussion behind veil of narration
+- Style of children's tale / fabelhaftes Werk
+- Short (maybe short story ??) / Novella
+- Still need to flesh out story
+- Sort of like Alice in Wonderland, Flatland, Petit Prince (in terms of tone) ??
+	- Maybe like Hobbit / Narnia instead 
+
+- DG List of Concepts
+	- Non-flat metrics (world with Lorentz manifold vs. nonlorentz)
+	- Manifolds
+	- Distance measurements
+		- Ask specifically: "How do you know how far you've gone?" 
+		- Describe fundamentally the arbitrary nature of distances
+	- Vectors / Forms
+		- Arrows in world ??? / Surface structures in world
+		- Industrial / Steampunk-era machines
+		- 
+	- Parallel Transport
+		- Magical river ???
+		- Fate, treadmill-like motion
+		- Stream-line like visual effect
+- Expand on how to discuss these later ....
+- Metric Instrument Symbolism
+	- Clocks, Rulers, etc.
+	- 
