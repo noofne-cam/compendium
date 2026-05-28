@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7250d4caba992e6d",
+        "id": "5de1930a4e6eb884",
         "type": "tabs",
         "children": [
           {
-            "id": "c26fdb476a2b2533",
+            "id": "d00ed9b613b0176e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Natural Philosophy/16-120/FOUNDATIONAL GENERAL RELATIVITY.md",
+                "file": "Natural Philosophy/16-231†/ELECTROMAGNETISM following J.J..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "FOUNDATIONAL GENERAL RELATIVITY"
+              "title": "ELECTROMAGNETISM following J.J."
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 216.5086555480957,
-    "collapsed": true
+    "width": 216.5086555480957
   },
   "right": {
     "id": "3fb50faaa4aa87bd",
@@ -197,10 +196,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c26fdb476a2b2533",
+  "active": "d00ed9b613b0176e",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Natural Philosophy/Modules.canvas",
+    "Natural Philosophy/16-231†/ELECTROMAGNETISM following J.J..md",
+    "Natural Philosophy/16-231†",
     "Natural Philosophy/16-120/FOUNDATIONAL GENERAL RELATIVITY.md",
+    "Untitled.md",
     "Literature/21-WW/Work Description.md",
     "Natural Philosophy/16-120",
     "Engineering/01-141/ROCKETRY.md",
@@ -217,11 +219,9 @@
     "Natural Philosophy/18-012/ANALYTIC THEORY.md",
     "Natural Philosophy/18-012/N02",
     "Natural Philosophy/18-010/REAL ANALYSIS.md",
-    "Natural Philosophy/Modules.canvas",
     "Ceng/ia02-MAT/Handout II Notes.md",
     "Natural Philosophy/18-012",
     "CE-IA/IA Structures Classification.md",
-    "Ceng/ia02-MAT",
     "Natural Philosophy/18-010/N01/The Field of Real Numbers.md",
     "08-0E/Pendulum/Simple Undamped Conical Pendulum.md",
     "08-0E/Systems.md",
@@ -233,8 +233,6 @@
     "08-060/Notes/Tensors.md",
     "18-070/Gallery. Groups.md",
     "18-070/RSGT-Series/E1.md",
-    "18-070/Notes/Group.md",
-    "08-022/Statistical Mechanics Syllabus.md",
-    "08-01/Systems/Double Pendulum.md"
+    "18-070/Notes/Group.md"
   ]
 }

@@ -1,0 +1,9 @@
+- **Prerequisite Material:**
+	- Vector Calculus
+	- PDE Methods
+	- Important Functional / Basis Sequences
+		- Legendre Functions
+		- Bessel Functions (I and II)
+		- Harmonic Functions
+	- Fourier Series
+- 
