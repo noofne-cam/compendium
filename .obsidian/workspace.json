@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature/21-WW/Work Description.md",
+                "file": "Natural Philosophy/16-120/FOUNDATIONAL GENERAL RELATIVITY.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Work Description"
+              "title": "FOUNDATIONAL GENERAL RELATIVITY"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 216.5086555480957
+    "width": 216.5086555480957,
+    "collapsed": true
   },
   "right": {
     "id": "3fb50faaa4aa87bd",
@@ -198,8 +199,11 @@
   },
   "active": "c26fdb476a2b2533",
   "lastOpenFiles": [
-    "Engineering/01-141/ROCKETRY.md",
+    "Untitled.md",
+    "Natural Philosophy/16-120/FOUNDATIONAL GENERAL RELATIVITY.md",
     "Literature/21-WW/Work Description.md",
+    "Natural Philosophy/16-120",
+    "Engineering/01-141/ROCKETRY.md",
     "Literature/21-WW",
     "Literature/Untitled.md",
     "Literature",
@@ -218,7 +222,6 @@
     "Natural Philosophy/18-012",
     "CE-IA/IA Structures Classification.md",
     "Ceng/ia02-MAT",
-    "Ceng",
     "Natural Philosophy/18-010/N01/The Field of Real Numbers.md",
     "08-0E/Pendulum/Simple Undamped Conical Pendulum.md",
     "08-0E/Systems.md",
@@ -232,8 +235,6 @@
     "18-070/RSGT-Series/E1.md",
     "18-070/Notes/Group.md",
     "08-022/Statistical Mechanics Syllabus.md",
-    "08-01/Systems/Double Pendulum.md",
-    "18-010/Notes/II-1..md",
-    "18-010/Notes/I..md"
+    "08-01/Systems/Double Pendulum.md"
   ]
 }
