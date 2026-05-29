@@ -5,5 +5,7 @@
 		- Legendre Functions
 		- Bessel Functions (I and II)
 		- Harmonic Functions
+		- Hermite Functions
+		- Laguerre Functions
+		- Chebyshev Functions (I and II)
 	- Fourier Series
-- 
