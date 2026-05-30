@@ -1,0 +1,15 @@
+- **Definition**
+	- Let $(a_n)$ be a sequence. The sequence $(s_n)$ of **partial sums of the series on $(a_n)$** is the sequence $s_n = \sum^n_{k=1} a_n$. We write $s_\infty$ or $s$ for $\lim_{n\to \infty} s_n$ **if it exists**, in which case the series defined on $(a_n)$ is said to *converge* to $s$. Otherwise, the series *diverges.* If the limits are clear, we may write $\sum a_n$ for the sum and write $\sum a_n$ anyways to denote the series. 
+---
+- **Cauchy Criterion, Series Form.**
+	- $\sum a_n$ converges *if and only if* for each $\epsilon$, there exists $N$ such that $$\left|\sum^m_{k=n} a_n\right| \le \epsilon$$with $m \ge n \ge N$.
+- **Sequence Test.**
+	- $\sum a_n$ converges only if $\lim_{n\to\infty} a_n = 0$.
+		- *Proof.* From the Cauchy criterion, $m = n$.
+	- Note that the converse is not true (counterexample: $a_n = 1/n$).
+- **Comparison Test.**
+	- (i) If $|a_n| \le c_n$ for $n \ge N$, and if $\sum c_n$ converges, then $\sum a_n$ converges.
+	- (ii) If $a_n \ge d_n \ge 0$ for $n \ge N$, and if $\sum d_n$ diverges, then $\sum a_n$ diverges.
+		- *Proof.* If $a_n$ were to converge, then for some limit $N_0$ it must follow that $\sum^m_n a_k \le \epsilon$ for $N_0 \le n \le m$. If $n$ and $m$ are chosen to exceed $N$, it then follows that the corresponding sum $\sum^m_n d_k \le \sum^m_k a_k$. But as the choice of $n$ and $m$ was arbitrary, it follows that $d_k$ satisfies the Cauchy criterion from $\max(N_0, N)$ such that $d_k$ must diverge. This contradiction shows that $a_n$ diverges.  
+- **Array Test.**
+	- Let $(a_i)$ be monotonically decreasing and positive. The series $\sum a_n$ converges *if and only if* $\sum 2^n a_{2^n}$ converges.

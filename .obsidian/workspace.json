@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Natural Philosophy/16-231†/ELECTROMAGNETISM following J.J..md",
+                "file": "Natural Philosophy/18-010/N02/Series.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ELECTROMAGNETISM following J.J."
+              "title": "Series"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 216.5086555480957
+    "width": 216.5086555480957,
+    "collapsed": true
   },
   "right": {
     "id": "3fb50faaa4aa87bd",
@@ -198,41 +199,42 @@
   },
   "active": "d00ed9b613b0176e",
   "lastOpenFiles": [
-    "Natural Philosophy/Modules.canvas",
+    "Natural Philosophy/18-010/N01/The Field of Real Numbers.md",
+    "Natural Philosophy/18-010/N02/Series.md",
+    "Natural Philosophy/18-010/N02",
+    "Natural Philosophy/18-010/REAL ANALYSIS.md",
+    "Natural Philosophy/18-022/Legendre Functions.md",
+    "Natural Philosophy/18-022/Bessel Functions I.md",
+    "Natural Philosophy/18-022/SPECIAL FUNCTION SERIES I.md",
+    "Natural Philosophy/18-022/Untitled",
+    "Natural Philosophy/18-022/Notes",
+    "Natural Philosophy/18-020/METHODS for ORDINARY DIFFERENTIAL EQUATIONS.md",
+    "Natural Philosophy/18-022",
+    "Natural Philosophy/Course Page.md",
+    "Natural Philosophy/18-120/METHODS for PARTIAL DIFFERENTIAL EQUATIONS.md",
+    "Natural Philosophy/18-120",
     "Natural Philosophy/16-231†/ELECTROMAGNETISM following J.J..md",
+    "Natural Philosophy/18-020",
+    "Natural Philosophy/Modules.canvas",
     "Natural Philosophy/16-231†",
     "Natural Philosophy/16-120/FOUNDATIONAL GENERAL RELATIVITY.md",
     "Untitled.md",
     "Literature/21-WW/Work Description.md",
     "Natural Philosophy/16-120",
-    "Engineering/01-141/ROCKETRY.md",
+    "Engineering/02-141/ROCKETRY.md",
     "Literature/21-WW",
     "Literature/Untitled.md",
     "Literature",
     "Natural Philosophy/18-050/NA01/Topological Space.md",
-    "Engineering/01-141",
-    "Engineering",
     "Natural Philosophy/18-050/ELEMENTARY TOPOLOGY.md",
-    "Natural Philosophy/18-050/NA01",
     "Natural Philosophy/18-012/N02/Arcs.md",
-    "Natural Philosophy/18-050",
     "Natural Philosophy/18-012/ANALYTIC THEORY.md",
-    "Natural Philosophy/18-012/N02",
-    "Natural Philosophy/18-010/REAL ANALYSIS.md",
     "Ceng/ia02-MAT/Handout II Notes.md",
-    "Natural Philosophy/18-012",
     "CE-IA/IA Structures Classification.md",
-    "Natural Philosophy/18-010/N01/The Field of Real Numbers.md",
     "08-0E/Pendulum/Simple Undamped Conical Pendulum.md",
     "08-0E/Systems.md",
     "18-012/Complex Analysis.md",
     "18-050/Formulas.md",
-    "18-050/Constructs/The Covariant Derivative.md",
-    "18-050/Elementary Differential Geometry.md",
-    "18-012/LS-A2/Chapter 3 Exercises.md",
-    "08-060/Notes/Tensors.md",
-    "18-070/Gallery. Groups.md",
-    "18-070/RSGT-Series/E1.md",
-    "18-070/Notes/Group.md"
+    "18-050/Constructs/The Covariant Derivative.md"
   ]
 }

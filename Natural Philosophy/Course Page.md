@@ -1,0 +1,28 @@
+- **01.** Philosophy
+	- **01.** Philosophy
+- **02-09.** Engineering
+	- **02.** Aeronautical and Aerospatial Engineering
+	- **03.** Mechanical Engineering
+	- **04.** Civil and Structural Engineering
+	- **05.** Electrical Engineering
+	- **06.** Information Engineering and Computer Science
+	- **07.** Materials and Nuclear Engineering
+	- **08.** Instrumentation
+	- **09.** Diverse Engineering Fields
+- **10-15.** Natural Sciences
+	- **10.** Chemical Sciences
+	- **11.** Experimental Physics
+	- **12.** Astronomy
+	- **13.** Biological Sciences
+	- **14.** Medical Sciences
+	- **15.** Geological Sciences
+- **16-18.** Natural Philosophy
+	- **16.** Theoretical Physics
+	- **17.** Logic
+	- **18.** Mathematics
+		- **18-01X.** Analysis I
+		- **18-02X.** Ordinary Differential Equations
+			- I. Methods for ODEs
+- **19.** Technical Sciences
+	- **19.** Numerical Methods
+- **20-.** Languages and Literature

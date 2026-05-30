@@ -10,6 +10,8 @@
 	- *§1.4.* The Extended Field $\mathbf R*$
 	- *§1.5.* Euclidean Space $\mathbf R^n$.
 - **2**   Sequences and Series on the Field
+	- *§2.1.* Sequences
+	- *§2.2.* Series
 - **3**   Metric Continuity
 - **4**   Differentiation on the Field
 - **5**   Integration on the Field
