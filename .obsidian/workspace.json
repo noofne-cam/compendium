@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ceng/ia02-MAT/Notes.md",
+                "file": "Natural Philosophy/16-231†/Notes/Following Chapter II.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notes"
+              "title": "Following Chapter II"
             }
           }
         ]
@@ -198,8 +198,10 @@
   },
   "active": "d00ed9b613b0176e",
   "lastOpenFiles": [
-    "Research/Astronomical Interstellar Dust.md",
     "Ceng/ia02-MAT/Notes.md",
+    "Natural Philosophy/16-231†/Notes/Following Chapter II.md",
+    "Natural Philosophy/16-231†/Notes",
+    "Research/Astronomical Interstellar Dust.md",
     "Natural Philosophy/18-010/N02/Convergence Tests.md",
     "Research",
     "Natural Philosophy/18-010/N02/Series.md",
@@ -225,7 +227,6 @@
     "Literature/21-WW/Work Description.md",
     "Natural Philosophy/16-120",
     "Engineering/02-141/ROCKETRY.md",
-    "Literature/21-WW",
     "Literature/Untitled.md",
     "Natural Philosophy/18-050/NA01/Topological Space.md",
     "Natural Philosophy/18-050/ELEMENTARY TOPOLOGY.md",
@@ -233,7 +234,6 @@
     "Natural Philosophy/18-012/ANALYTIC THEORY.md",
     "Ceng/ia02-MAT/Handout II Notes.md",
     "CE-IA/IA Structures Classification.md",
-    "08-0E/Pendulum/Simple Undamped Conical Pendulum.md",
-    "08-0E/Systems.md"
+    "08-0E/Pendulum/Simple Undamped Conical Pendulum.md"
   ]
 }
