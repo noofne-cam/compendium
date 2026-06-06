@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Natural Philosophy/16-231†/Notes/Following Chapter II.md",
+                "file": "Natural Philosophy/16-040/files/Quantum Rotations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Following Chapter II"
+              "title": "Quantum Rotations"
             }
           }
         ]
@@ -198,8 +198,16 @@
   },
   "active": "d00ed9b613b0176e",
   "lastOpenFiles": [
-    "Ceng/ia02-MAT/Notes.md",
+    "Natural Philosophy/16-040/Quantum Mechanics.md",
+    "Natural Philosophy/16-040/files/Quantum Rotations.md",
+    "Natural Philosophy/16-040/files",
+    "Natural Philosophy/16-111/files/Rotation Matrices.md",
+    "Natural Philosophy/16-040",
+    "Natural Philosophy/16-111/Classical Mechanics.md",
+    "Natural Philosophy/16-111/files",
     "Natural Philosophy/16-231†/Notes/Following Chapter II.md",
+    "Natural Philosophy/16-111",
+    "Ceng/ia02-MAT/Notes.md",
     "Natural Philosophy/16-231†/Notes",
     "Research/Astronomical Interstellar Dust.md",
     "Natural Philosophy/18-010/N02/Convergence Tests.md",
@@ -217,23 +225,15 @@
     "Natural Philosophy/18-022",
     "Natural Philosophy/Course Page.md",
     "Natural Philosophy/18-120/METHODS for PARTIAL DIFFERENTIAL EQUATIONS.md",
-    "Natural Philosophy/18-120",
     "Natural Philosophy/16-231†/ELECTROMAGNETISM following J.J..md",
-    "Natural Philosophy/18-020",
     "Natural Philosophy/Modules.canvas",
-    "Natural Philosophy/16-231†",
     "Natural Philosophy/16-120/FOUNDATIONAL GENERAL RELATIVITY.md",
     "Untitled.md",
     "Literature/21-WW/Work Description.md",
-    "Natural Philosophy/16-120",
     "Engineering/02-141/ROCKETRY.md",
     "Literature/Untitled.md",
     "Natural Philosophy/18-050/NA01/Topological Space.md",
     "Natural Philosophy/18-050/ELEMENTARY TOPOLOGY.md",
-    "Natural Philosophy/18-012/N02/Arcs.md",
-    "Natural Philosophy/18-012/ANALYTIC THEORY.md",
-    "Ceng/ia02-MAT/Handout II Notes.md",
-    "CE-IA/IA Structures Classification.md",
-    "08-0E/Pendulum/Simple Undamped Conical Pendulum.md"
+    "Natural Philosophy/18-012/N02/Arcs.md"
   ]
 }

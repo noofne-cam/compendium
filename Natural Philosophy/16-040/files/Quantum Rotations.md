@@ -1,0 +1,1 @@
+- $R(\textbf n; d\phi) = 1-\frac{i}{\hbar}d\phi \textbf n \cdot \textbf L$   
