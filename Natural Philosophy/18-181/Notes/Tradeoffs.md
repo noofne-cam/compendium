@@ -1,0 +1,6 @@
+- Training vs. Test Error (MSE)
+- Bias vs. Variance Trade-off
+	- *Proof.* Decomposition of the Error into the *Bias*, *Variance*, and *Noise* terms.
+- Transduction to Classifications
+	- *Proof.* Bayes Classification is the purest classification
+- 

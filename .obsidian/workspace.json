@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Natural Philosophy/16-240/General Relativity.md",
+                "file": "Natural Philosophy/18-181/Notes/Tradeoffs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "General Relativity"
+              "title": "Tradeoffs"
             }
           }
         ]
@@ -198,8 +198,12 @@
   },
   "active": "d00ed9b613b0176e",
   "lastOpenFiles": [
-    "Science/12-012/Stellar Matter.md",
+    "Natural Philosophy/18-181/Statistical learning.md",
+    "Natural Philosophy/18-181/Notes/Tradeoffs.md",
+    "Natural Philosophy/18-181/Notes",
     "Natural Philosophy/16-240/General Relativity.md",
+    "Natural Philosophy/18-181",
+    "Science/12-012/Stellar Matter.md",
     "Natural Philosophy/16-240",
     "Natural Philosophy/Course Page.md",
     "Research/Astronomical Interstellar Dust.md",
@@ -218,10 +222,8 @@
     "Ceng/ia02-MAT/Notes.md",
     "Natural Philosophy/16-231†/Notes",
     "Natural Philosophy/18-010/N02/Convergence Tests.md",
-    "Research",
     "Natural Philosophy/18-010/N02/Series.md",
     "Natural Philosophy/18-010/N01/The Field of Real Numbers.md",
-    "Natural Philosophy/18-010/N02",
     "Natural Philosophy/18-010/REAL ANALYSIS.md",
     "Natural Philosophy/18-022/Legendre Functions.md",
     "Natural Philosophy/18-022/Bessel Functions I.md",
@@ -232,8 +234,6 @@
     "Natural Philosophy/Modules.canvas",
     "Natural Philosophy/16-120/FOUNDATIONAL GENERAL RELATIVITY.md",
     "Literature/21-WW/Work Description.md",
-    "Engineering/02-141/ROCKETRY.md",
-    "Literature/Untitled.md",
-    "Natural Philosophy/18-050/NA01/Topological Space.md"
+    "Engineering/02-141/ROCKETRY.md"
   ]
 }
