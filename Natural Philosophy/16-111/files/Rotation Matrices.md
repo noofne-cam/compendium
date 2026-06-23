@@ -1,6 +1,0 @@
-- **A**  *Explicit form of the Rotation Matrices*
-- **B**  *Infinitesimal Rotations*
-- **C**  *Linear Properties of the Rotation Matrices*
-	- 1. Orthogonality
-	- 2. Norm-preservation
-	- 3. $\det R = 1$

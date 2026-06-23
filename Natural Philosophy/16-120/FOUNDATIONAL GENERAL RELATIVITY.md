@@ -1,1 +1,0 @@
-*For the mathematical component, the information from* **ELEMENTARY DIFFERENTIAL GEOMETRY** *is assumed, as well as all required mathematics supporting that clause.* 

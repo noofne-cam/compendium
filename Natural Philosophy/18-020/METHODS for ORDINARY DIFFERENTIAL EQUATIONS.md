@@ -1,4 +1,0 @@
-- **First-Order** ODEs
-	- i. Separable Equations
-	- ii. Exact Equations
-	- iii. Linear Equations

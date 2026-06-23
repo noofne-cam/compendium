@@ -1,3 +1,0 @@
-- 1. Method of Images
-- 2. Green Expansion of Solutions
-- 3. Separation of Variables, Cartesian / Polar
