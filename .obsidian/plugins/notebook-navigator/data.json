@@ -135,6 +135,7 @@
     "list": {
       "back": true,
       "search": true,
+      "reveal": false,
       "descendants": true,
       "sort": true,
       "appearance": true,
@@ -478,7 +479,7 @@
   "folderSortOverrides": {},
   "folderTreeSortOverrides": {},
   "folderAppearances": {
-    "18-070": {
+    "Old Compendium/18-070": {
       "titleRows": 1,
       "mode": "compact"
     }
@@ -520,7 +521,7 @@
     "#404040",
     "#404040"
   ],
-  "lastShownVersion": "3.1.4",
+  "lastShownVersion": "3.2.0",
   "rootFolderOrder": [],
   "rootTagOrder": [],
   "rootPropertyOrder": []
